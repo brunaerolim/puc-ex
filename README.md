@@ -16,33 +16,35 @@ This repository is part of my studies at PUC Minas and contains coding challenge
 
 - **Kotlin** (Primary Language - `.kts` Scripts)
 - **JetBrains IntelliJ IDEA** (Development Environment)
+- Java (Optional Implementations, if needed)
 
 ## 📂 Repository Structure
-📦 array-practice-repo
-┣ 📂 scripts
-┃ ┣ 📜 MergeSortedArray.kts
-┃ ┣ 📜 RemoveElement.kts
-┃ ┣ 📜 SearchElement.kts
-┃ ┗ 📜 SortingAlgorithms.kts
-┣ 📜 README.md
-┣ 📜 .gitignore
+array-practice-repo
+├── scripts
+│   ├── MergeSortedArray.kts
+│   ├── RemoveElement.kts
+│   ├── SearchElement.kts
+│   └── SortingAlgorithms.kts
+├── README.md
+└── .gitignore
+
 
 ## 🚀 How to Run
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/brunaerolim/puc-ex.git
----
+   git clone https://github.com/brunaerolim/array-practice-repo.git
 
-### Parte 6: Contributions
-```markdown
+2. Install Kotlin: Ensure you have Kotlin installed (e.g., via SDK or IntelliJ IDEA).
+3. Run a Script:
+- Navigate to the scripts folder in your terminal.
+- Execute a script using
+
+`kotlinc -script <filename>.kts`
+
 ## 📌 Contributions
+- This is a personal study repository, but feel free to fork it and adapt it for your own learning! Suggestions or new array-related problems are welcome:
 
-This is a personal study repository, but feel free to fork it and adapt it for your own learning! Suggestions or new array-related problems are welcome:
 - Fork the repository
 - Create a new branch
 - Submit a pull request
-
----
-
-Happy coding! 🎯
