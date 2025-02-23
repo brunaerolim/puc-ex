@@ -19,15 +19,15 @@ This repository is part of my studies at PUC Minas and contains coding challenge
 - Java (Optional Implementations, if needed)
 
 ## 📂 Repository Structure
-array-practice-repo
-├── scripts
-│   ├── MergeSortedArray.kts
-│   ├── RemoveElement.kts
-│   ├── SearchElement.kts
-│   └── SortingAlgorithms.kts
-├── README.md
-└── .gitignore
 
+puc-ex-repo  
+├── scripts  
+│   ├── MergeSortedArray.kts  
+│   ├── RemoveElement.kts  
+│   ├── SearchElement.kts  
+│   └── SortingAlgorithms.kts  
+├── README.md  
+└── .gitignore
 
 ## 🚀 How to Run
 
